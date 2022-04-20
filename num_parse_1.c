@@ -2,7 +2,7 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <string.h>
-#include "holberton.h"
+#include "main.h"
 /**
  * set_number - Retrieves a number from the given string
  * @str: The string to retrieve the number from
