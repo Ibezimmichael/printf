@@ -2,7 +2,7 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <string.h>
-#include "holberton.h"
+#include "main.h"
 /**
  * is_digit - Checks if the given character is a digit character
  * @c: The character to check
