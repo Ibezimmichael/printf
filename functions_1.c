@@ -2,7 +2,7 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <string.h>
-#include "holberton.h"
+#include "main.h"
 /**
  * convert_fmt_percent - Prints a percent sign (%)
  * @args_list: The arguments list
